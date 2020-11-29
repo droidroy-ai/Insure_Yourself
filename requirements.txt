@@ -1,0 +1,4 @@
+
+openpyxl==3.0.5
+requests==2.25.0
+pdfminer
